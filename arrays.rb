@@ -1,8 +1,16 @@
 # 1. Create an array to store 3 words. Then add two more words to the array and print the array on one line.
+array1 = ["hi", "bye", "goodnight"]
+array1 << "good morning"
+array1 << "good afternoon"
+p array1
 
 # 2. Create an array to store 4 letters. Then change the second letter to a number and print the array on one line.
+array2 = ["G", "T", "S", "T"]
+array2[1] = 10
+p array2
 
 # 3. Create an array to store 5 numbers. Then print out each number on separate lines with a while loop.
+
 
 # 4. Create an array to store 1 number. Then add three more numbers to the array and print the array on one line.
 
